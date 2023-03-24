@@ -1,5 +1,5 @@
 # Extracting and Visualizing Stock Data
-This lab uses **webscraping** to extract Revenue Data from TESLA and GAMESTOP.</br>
+This lab uses **webscraping** to extract Revenue Data from TESLA (TSLA) and GAMESTOP (GME).</br>
 The main objective is to **extract, clean, and visualize** the data from the two companies. </br>
 
 ### Final Visualizations of Tesla and GameStop Historical Financial Data
